@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 ****************************************************
-*                Scraping Services                 *
-*           (c) 2025 Alexander Hering              *
+*             Modular Scraping Services            *
+*            (c) 2025 Alexander Hering             *
 ****************************************************
 
 based on Modular Voice Assistant service infrastructure.
